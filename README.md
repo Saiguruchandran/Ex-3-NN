@@ -142,7 +142,8 @@ print(predict(w1, w2, x))
 
 <H3>Output:</H3>
 
-<img width="829" height="666" alt="image" src="https://github.com/user-attachments/assets/122fb2e5-9a15-4613-85c8-ee2d2e62d177" />
+<img width="731" height="519" alt="image" src="https://github.com/user-attachments/assets/8393658a-9a9d-4bab-9c31-92b1e3320f31" />
+
 
 
 
